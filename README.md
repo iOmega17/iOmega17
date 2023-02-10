@@ -26,7 +26,7 @@
 
 
 ### GitHub Contributions
-![iomega17 GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&user=iomega17)
+![iomega17 GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&user=iomega17&theme=radical)
 
 ### Most Used Langauges
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iomega17&layout=compact&theme=radical&langs_count=8)
