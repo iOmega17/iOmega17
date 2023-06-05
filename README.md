@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anuj Pratap Singh</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working on **MAchine Learning**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **React**
 
